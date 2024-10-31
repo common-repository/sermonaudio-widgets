@@ -1,0 +1,136 @@
+.sa_plugin_newest_sermon1{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	width: 450px;
+}
+
+.sa_plugin_newest_sermon1 table {
+	border: inherit;
+	margin: inherit;
+	padding: 0;
+	width: 100%;
+}
+
+.sa_plugin_newest_sermon1 table td{
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	padding: 1px;
+}
+
+.sa_plugin_newest_sermon1 table td a {
+	font-size: 12px;
+	font-family: arial;
+	color: #123154;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.sa_plugin_newest_sermon2{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	line-height: 1;
+	width: 100%;
+}
+
+.sa_plugin_newest_sermon2 table {
+	border: inherit;
+	margin: inherit;
+	padding: inherit;
+	width: inherit;
+}
+
+.sa_plugin_newest_sermon2 table td{
+	border: inherit;
+	margin: inherit;
+	padding: inherit;
+}
+
+.sa_plugin_flash_video{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	max-width: 323px;
+	max-height: 425px;
+}
+
+.sa_plugin_flash_video table {
+	margin: 0;
+	padding: 1px;
+	border-spacing: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	white-space: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-size: normal;
+	font-variant: normal;
+	font-style: normal;
+	color: -webkit-text;
+	text-align: -webkit-auto;
+}
+
+.sa_plugin_flash_video table td {
+	border: 0;
+	margin: 0;
+	margin-bottom: 0;
+	padding: 0;
+	display: table-cell;
+	vertical-align: inherit;
+}
+
+.sa_plugin_flash_video_tiny{
+	border: 0;
+	margin: 0;
+	padding: 0;
+	width: 237px;
+}
+
+.sa_plugin_flash_video_tiny table {
+	border: 0;
+	margin: inherit;
+	padding: 1px;
+	margin-top: inherit;
+	margin-bottom: inherit;
+	margin-left: inherit;
+	margin-right: inherit;
+	border-spacing: 0px;
+	border-color: gray;
+	border-collapse: separate;
+	display: table;
+}
+
+.sa_plugin_flash_video_tiny table td {
+border: inherit;
+margin: inherit;
+padding: inherit;
+display: table-cell;
+vertical-align: inherit;
+}
+
+.sa_plugin_sermon_browser table{
+	border: 0;
+}
+
+.sa_plugin_live_webcast table{
+	border: 0;
+	width: 0;
+	height: 0;
+	padding: 1px;
+	margin: 0;
+}
+
+.sa_plugin_live_webcast table td{
+	padding: 0;
+	line-height: normal;
+}
+
+.sa_plugin_live_webcast img{
+	border: 0 !important;
+	padding: 0 !important;
+}
